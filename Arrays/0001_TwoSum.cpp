@@ -1,3 +1,14 @@
+/*
+Problem:Two sum
+platform:LeetCode
+Difficulty:Easy
+
+Approach
+    
+ 
+Time Complexity:o(n)
+Space complexity:o(n)
+*/
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
