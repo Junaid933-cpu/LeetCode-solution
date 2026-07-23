@@ -1,6 +1,6 @@
 /*
 Problem:0189 rotate Array
-platfor:LeetCode
+platform:LeetCode
 Difficulty:Medium
 
 Approach
