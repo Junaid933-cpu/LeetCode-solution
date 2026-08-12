@@ -15,6 +15,7 @@ public:
     }
 
     int splitArray(vector<int>& nums, int k) {
+        if (k > nums.size()) return -1; // more pieces than elements, impossible
         int low=*max_element(nums.begin(),nums.end());
         int high=accumulate(nums.begin(),nums.end(),0);
         while(low<=high){
