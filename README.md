@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0027-remove-element) |
+| [0136-single-number](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0136-single-number) |
 | [0410-split-array-largest-sum](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0485-max-consecutive-ones) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0027-remove-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
