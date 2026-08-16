@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0125-valid-palindrome) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0048-rotate-image) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
