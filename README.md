@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0485-max-consecutive-ones) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
 | ------- |
