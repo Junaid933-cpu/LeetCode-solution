@@ -144,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Junaid933-cpu/LeetCode-solution/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
